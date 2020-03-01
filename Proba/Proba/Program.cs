@@ -7,6 +7,8 @@ namespace Proba
         static void Main(string[] args)
         {
             int a = 0;
+            int b = 0;
+
         }
     }
 }
